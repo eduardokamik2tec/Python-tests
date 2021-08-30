@@ -1,2 +1,2 @@
 # Python-tests
-Rep for python tests
+Repository for python tests code
